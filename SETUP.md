@@ -4,7 +4,7 @@ For ease of use, we'll go with a git gui client [https://github.com/apps/desktop
 
 You'll also need [https://obsidian.md/](https://obsidian.md/)
 
-When you open Github Desktop, if you're already a collaborator you should see this repository on the left and can click the clone button at the bottom.
+When you open the Github Desktop app, if you're already a collaborator you should see this repository on the left and can click the clone button at the bottom.
 
 ![Github desktop dashboard](./images/dashboard.png)
 
