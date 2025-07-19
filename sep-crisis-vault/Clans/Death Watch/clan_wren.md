@@ -1,0 +1,27 @@
+---
+aliases: 
+tags:
+  - Clan
+  - Clan/Main
+---
+
+| Property      | Value                                 |
+| ------------- | ------------------------------------- |
+| id            | clan_wren                             |
+| name          | Clan Wren                             |
+| culture       | [[Cultures/death_watch\|death_watch]] |
+| owner         | [[ursa]]                              |
+| super_faction | [[Kingdoms/death_watch\|death_watch]] |
+| banner_key    |                                       |
+| is_noble      | true                                  |
+| wiki link     |                                       |
+
+### Party Templates
+| Type                   | Template |
+| ---------------------- | -------- |
+| default_party_template |          |
+
+### Character Templates
+| Character |
+| :-------: |
+|           |

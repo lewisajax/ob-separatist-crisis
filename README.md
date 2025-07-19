@@ -1,0 +1,1 @@
+[Obsidian](https://obsidian.md/) vault for an unofficial star wars mod

@@ -1,0 +1,32 @@
+---
+aliases: 
+tags:
+  - Clan
+  - Clan/Bandit
+---
+
+| Property           | Value                                                                                                                                                                                                                                                                                                                                                                                       |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| id                 | ohnaka                                                                                                                                                                                                                                                                                                                                                                                      |
+| name               | Ohnaka Gang                                                                                                                                                                                                                                                                                                                                                                                 |
+| culture            | [[Cultures/Bandits/ohnaka\|ohnaka]]                                                                                                                                                                                                                                                                                                                                                         |
+| tier               | 3                                                                                                                                                                                                                                                                                                                                                                                           |
+| is_bandit          | true                                                                                                                                                                                                                                                                                                                                                                                        |
+| banner_key         |                                                                                                                                                                                                                                                                                                                                                                                             |
+| color              |                                                                                                                                                                                                                                                                                                                                                                                             |
+| color2             |                                                                                                                                                                                                                                                                                                                                                                                             |
+| alternative_color  |                                                                                                                                                                                                                                                                                                                                                                                             |
+| alternative_color2 |                                                                                                                                                                                                                                                                                                                                                                                             |
+| label_color        |                                                                                                                                                                                                                                                                                                                                                                                             |
+| wiki link          |                                                                                                                                                                                                                                                                                                                                                                                             |
+| text               | This band of predominatly Weequay pirates calls the outer rim planet of Florrum their home. Under the leadership of the charismatic Captain Hondo Ohnaka, they have amassed a fortune by raiding civilian starships that pass through their turf. To supplement their earnings, they have been known to make risk moves, such as kidnapping and ransoming two Jedi Knights and Count Dooku. |
+
+### Party Templates
+| Type                   | Template |
+| ---------------------- | -------- |
+| default_party_template |          |
+
+### Character Templates
+| Character |
+| :-------: |
+|           |

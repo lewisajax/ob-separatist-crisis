@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "dde938ee711b5f9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "459ab82002d859ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a803964eda3937b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c7a770bfb1c5928",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a0688bab191cc4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9966b6cd6b891da1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f864142649acc9f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2fd22a469ad5e9cc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "99c793ec42d524a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "845bc52b724a33d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b7a2c2b0c141dfa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a8cc281f9e5ac82e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1b85ffbe418cacc9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cb78234ea8758b83",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4a803964eda3937b",
+  "lastOpenFiles": [
+    "Command Structure/Republic/Army/Systems Army.md",
+    "Command Structure/Republic/Army/Corps.md",
+    "Command Structure/Republic/Army/Regiment.md",
+    "Command Structure/Republic/Army/Sector Army.md",
+    "Command Structure/Republic/Army/Platoon.md",
+    "Command Structure/Republic/Army/Company.md",
+    "Command Structure/Republic/Army/Battalion.md",
+    "Command Structure/Republic/Army/Legion.md",
+    "Command Structure/Republic/Clones/Clone Marshal Commander.md",
+    "Command Structure/Republic/Chancellor.md",
+    "Command Structure/Republic/Supreme Chancellor.md",
+    "Command Structure/Republic/Clones/Clone Lieutenant.md",
+    "Command Structure/Republic/Army",
+    "Command Structure/Republic/Clones/Clone Captain.md",
+    "Command Structure/Republic/Clones/Clone Major.md",
+    "Command Structure/Republic/Jedi/Jedi General.md",
+    "Command Structure/Republic/Jedi/Jedi Commander.md",
+    "Command Structure/Republic/Jedi/High Jedi General.md",
+    "Command Structure/Republic/Clones/Senior Clone Commander.md",
+    "Command Structure/Republic/Clones/Clone Commander.md",
+    "Notes/Command Structure.md",
+    "Command Structure/Republic/Clones",
+    "Command Structure/Republic/Jedi",
+    "Command Structure/Separatist",
+    "Command Structure/Republic",
+    "Command Structure",
+    "Notes",
+    "Cultures/sith.md",
+    "Cultures/new_mandalorian.md",
+    "Cultures/neutral.md",
+    "Cultures/death_watch.md",
+    "Cultures/crime_syndicates.md",
+    "Cultures/Separatist/zygerrian.md",
+    "Untitled.canvas",
+    "Items/Melee/Maces",
+    "Items/Melee/Polearms",
+    "Items/Melee/Two-handed Axes",
+    "Attachments/Pasted image 20250619202226.png",
+    "Attachments/Pasted image 20250619201756.png"
+  ]
+}
