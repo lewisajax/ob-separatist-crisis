@@ -7,14 +7,14 @@ tags:
 
 | Property  | Value             |
 | --------- | ----------------- |
-| id        | village_{{title}} |
-| name      |                   |
+| id        | village_gatalenta |
+| name      | Gatalenta         |
 | owner     |                   |
 | culture   |                   |
 | bound     |                   |
 | type      |                   |
-| posX      |                   |
-| posY      |                   |
+| posX      | 1049.333          |
+| posY      | 1060              |
 | wiki link |                   |
 | text      |                   |
 
