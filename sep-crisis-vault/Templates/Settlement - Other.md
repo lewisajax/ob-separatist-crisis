@@ -2,6 +2,7 @@
 aliases: 
 tags:
   - Settlement
+  - Settlement/Other
   - NotImplemented
 ---
 
@@ -11,5 +12,8 @@ tags:
 | name      |           |
 | owner     |           |
 | culture   |           |
+| type      |           |
+| posX      |           |
+| posY      |           |
 | wiki link |           |
 | text      |           |
