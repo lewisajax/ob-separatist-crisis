@@ -7,7 +7,7 @@ tags:
 
 | Property  | Value             |
 | --------- | ----------------- |
-| id        | village_{{title}} |
+| id        | village_bestoon |
 | name      |                   |
 | owner     |                   |
 | culture   |                   |

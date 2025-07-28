@@ -7,8 +7,8 @@ tags:
 
 | Property  | Value             |
 | --------- | ----------------- |
-| id        | village_{{title}} |
-| name      |                   |
+| id        | village_galagolos |
+| name      | Galagolos         |
 | owner     |                   |
 | culture   |                   |
 | bound     |                   |

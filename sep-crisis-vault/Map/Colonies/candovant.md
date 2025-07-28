@@ -7,8 +7,8 @@ tags:
 
 | Property  | Value             |
 | --------- | ----------------- |
-| id        | village_{{title}} |
-| name      |                   |
+| id        | village_candovant |
+| name      | Candovant         |
 | owner     |                   |
 | culture   |                   |
 | bound     |                   |
