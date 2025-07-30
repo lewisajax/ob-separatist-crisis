@@ -7,8 +7,8 @@ tags:
 
 | Property  | Value             |
 | --------- | ----------------- |
-| id        | village_{{title}} |
-| name      |                   |
+| id        | village_wynkahthu |
+| name      | Wynkahthu         |
 | owner     |                   |
 | culture   |                   |
 | bound     |                   |
@@ -19,7 +19,7 @@ tags:
 | text      |                   |
 
 ### Galaxy
-| Property | Value       |
-| -------- | ----------- |
-| region   | [[Mid Rim]] |
-| sector   |             |
+| Property | Value        |
+| -------- | ------------ |
+| region   | [[Mid Rim]]  |
+| sector   | [[Alderath]] |

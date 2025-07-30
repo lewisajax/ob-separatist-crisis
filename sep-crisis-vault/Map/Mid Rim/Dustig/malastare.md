@@ -7,8 +7,8 @@ tags:
 
 | Property  | Value             |
 | --------- | ----------------- |
-| id        | village_{{title}} |
-| name      |                   |
+| id        | village_malastare |
+| name      | Malastare         |
 | owner     |                   |
 | culture   |                   |
 | bound     |                   |
@@ -22,4 +22,4 @@ tags:
 | Property | Value       |
 | -------- | ----------- |
 | region   | [[Mid Rim]] |
-| sector   |             |
+| sector   | [[Dustig]]  |

@@ -7,8 +7,8 @@ tags:
 
 | Property  | Value             |
 | --------- | ----------------- |
-| id        | village_{{title}} |
-| name      |                   |
+| id        | village_mon_gazza |
+| name      | Mon Gazza         |
 | owner     |                   |
 | culture   |                   |
 | bound     |                   |
@@ -22,4 +22,4 @@ tags:
 | Property | Value       |
 | -------- | ----------- |
 | region   | [[Mid Rim]] |
-| sector   |             |
+| sector   | [[Lambda]]  |

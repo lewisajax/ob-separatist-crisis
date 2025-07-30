@@ -7,8 +7,8 @@ tags:
 
 | Property  | Value             |
 | --------- | ----------------- |
-| id        | village_{{title}} |
-| name      |                   |
+| id        | village_shu_torun |
+| name      | Shu-Torun         |
 | owner     |                   |
 | culture   |                   |
 | bound     |                   |
@@ -22,4 +22,4 @@ tags:
 | Property | Value       |
 | -------- | ----------- |
 | region   | [[Mid Rim]] |
-| sector   |             |
+| sector   | [[Chaama]]  |
