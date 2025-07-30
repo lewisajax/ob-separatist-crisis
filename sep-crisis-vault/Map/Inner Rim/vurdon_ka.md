@@ -7,8 +7,8 @@ tags:
 
 | Property  | Value             |
 | --------- | ----------------- |
-| id        | village_{{title}} |
-| name      |                   |
+| id        | village_vurdon_ka |
+| name      | Vurdon Ka         |
 | owner     |                   |
 | culture   |                   |
 | bound     |                   |
@@ -22,4 +22,4 @@ tags:
 | Property | Value         |
 | -------- | ------------- |
 | region   | [[Inner Rim]] |
-| sector   |               |
+| sector   | [[Darlonn]]   |

@@ -7,8 +7,8 @@ tags:
 
 | Property  | Value             |
 | --------- | ----------------- |
-| id        | village_{{title}} |
-| name      |                   |
+| id        | village_charissia |
+| name      | Charissia         |
 | owner     |                   |
 | culture   |                   |
 | bound     |                   |
@@ -22,4 +22,4 @@ tags:
 | Property | Value         |
 | -------- | ------------- |
 | region   | [[Inner Rim]] |
-| sector   |               |
+| sector   | [[Bartahn]]   |

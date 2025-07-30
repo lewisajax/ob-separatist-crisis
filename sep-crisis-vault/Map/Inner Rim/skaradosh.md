@@ -7,8 +7,8 @@ tags:
 
 | Property  | Value             |
 | --------- | ----------------- |
-| id        | village_{{title}} |
-| name      |                   |
+| id        | village_skaradosh |
+| name      | Skaradosh         |
 | owner     |                   |
 | culture   |                   |
 | bound     |                   |
