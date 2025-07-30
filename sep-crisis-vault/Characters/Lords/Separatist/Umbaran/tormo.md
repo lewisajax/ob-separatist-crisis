@@ -16,7 +16,7 @@ tags:
 ### Hero
 | Property | Value      |
 | -------- | ---------- |
-| faction  | [[umbara]] |
+| faction  | [[Clans/Separatist/umbara]] |
 | alive    | true       |
 | text     |            |
 

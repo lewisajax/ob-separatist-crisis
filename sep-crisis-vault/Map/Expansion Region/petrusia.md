@@ -7,7 +7,7 @@ tags:
 
 | Property  | Value             |
 | --------- | ----------------- |
-| id        | village_{{title}} |
+| id        | village_petrusia |
 | name      |                   |
 | owner     |                   |
 | culture   |                   |
@@ -22,4 +22,4 @@ tags:
 | Property | Value                |
 | -------- | -------------------- |
 | region   | [[Expansion Region]] |
-| sector   |                      |
+| sector   | [[Nuon e Safyd]]     |

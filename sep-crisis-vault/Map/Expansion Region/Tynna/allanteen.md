@@ -7,8 +7,8 @@ tags:
 
 | Property  | Value             |
 | --------- | ----------------- |
-| id        | village_{{title}} |
-| name      |                   |
+| id        | village_allanteen |
+| name      | Allanteen         |
 | owner     |                   |
 | culture   |                   |
 | bound     |                   |
@@ -22,4 +22,4 @@ tags:
 | Property | Value                |
 | -------- | -------------------- |
 | region   | [[Expansion Region]] |
-| sector   |                      |
+| sector   | [[Map/Sectors/Expansion Region/Tynna]]            |

@@ -7,8 +7,8 @@ tags:
 
 | Property  | Value             |
 | --------- | ----------------- |
-| id        | village_{{title}} |
-| name      |                   |
+| id        | village_stennaros |
+| name      | Stennaros         |
 | owner     |                   |
 | culture   |                   |
 | bound     |                   |
@@ -22,4 +22,4 @@ tags:
 | Property | Value                |
 | -------- | -------------------- |
 | region   | [[Expansion Region]] |
-| sector   |                      |
+| sector   | [[Har Worlds]]       |
