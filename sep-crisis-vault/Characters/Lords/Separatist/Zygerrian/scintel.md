@@ -16,7 +16,7 @@ tags:
 ### Hero
 | Property | Value        |
 | -------- | ------------ |
-| faction  | [[zygerria]] |
+| faction  | [[Clans/Separatist/zygerria]] |
 | alive    | true         |
 | text     |              |
 

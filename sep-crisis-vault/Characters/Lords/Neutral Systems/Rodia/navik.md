@@ -16,7 +16,7 @@ tags:
 ### Hero
 | Property | Value     |
 | -------- | --------- |
-| faction  | [[rodia]] |
+| faction  | [[Clans/Neutral Systems/rodia]] |
 | alive    | true      |
 | text     |           |
 

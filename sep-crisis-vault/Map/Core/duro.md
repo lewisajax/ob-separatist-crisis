@@ -19,7 +19,7 @@ tags:
 | text      |              |
 
 ### Galaxy
-| Property | Value           |
-| -------- | --------------- |
-| region   | [[Core Worlds]] |
-| sector   | [[Duro]]        |
+| Property | Value                           |
+| -------- | ------------------------------- |
+| region   | [[Core Worlds]]                 |
+| sector   | [[Map/Sectors/Core/Duro\|Duro]] |

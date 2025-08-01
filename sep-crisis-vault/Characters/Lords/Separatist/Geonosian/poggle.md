@@ -16,7 +16,7 @@ tags:
 ### Hero
 | Property | Value        |
 | -------- | ------------ |
-| faction  | [[geonosis]] |
+| faction  | [[Clans/Separatist/geonosis]] |
 | alive    | true         |
 | text     |              |
 

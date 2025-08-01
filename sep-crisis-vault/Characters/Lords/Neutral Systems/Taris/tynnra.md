@@ -16,7 +16,7 @@ tags:
 ### Hero
 | Property | Value     |
 | -------- | --------- |
-| faction  | [[taris]] |
+| faction  | [[Clans/Neutral Systems/taris]] |
 | alive    | true      |
 | text     |           |
 

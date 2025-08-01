@@ -19,7 +19,7 @@ tags:
 | text      |                |
 
 ### Galaxy
-| Property | Value           |
-| -------- | --------------- |
-| region   | [[Core Worlds]] |
-| sector   |                 |
+| Property | Value        |
+| -------- | ------------ |
+| region   | [[Colonies]] |
+| sector   |              |

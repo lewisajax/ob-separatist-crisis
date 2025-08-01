@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "afd55c2f837389bd",
+        "id": "2a91e72b30a7426f",
         "type": "tabs",
         "children": [
           {
-            "id": "f71d17941f502f72",
+            "id": "b20bb55935602c8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Map.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Map"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 298.5
   },
   "right": {
     "id": "99c793ec42d524a3",
@@ -166,44 +162,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f71d17941f502f72",
+  "active": "b20bb55935602c8d",
   "lastOpenFiles": [
-    "Map/Mid Rim/codia.md",
-    "Map/Mid Rim/pam_ba.md",
-    "Map/Mid Rim/pacara.md",
-    "Map/Mid Rim/barabesh.md",
-    "Map/Mid Rim/Tashtor/castilon.md",
-    "Map/Mid Rim/Tashtor/takodana.md",
-    "Map/Mid Rim/Tashtor",
-    "Map/Sectors/Mid Rim/Tashtor.md",
-    "Map/Mid Rim/Semagi/cerea.md",
-    "Map/Mid Rim/Semagi/hyborea.md",
-    "Map/Sectors/Mid Rim/Semagi.md",
-    "Map/Mid Rim/Semagi",
-    "Map/Mid Rim/Narrant/kartoosh.md",
-    "Map/Mid Rim/Narrant/riflor.md",
-    "Map/Mid Rim/Narrant/beltire.md",
-    "Map/Sectors/Mid Rim/Narrant.md",
-    "Map/Mid Rim/Narrant",
-    "Map/Mid Rim/Elbaran/entropian_hive.md",
-    "Map/Mid Rim/Elbaran/kirima.md",
-    "Map/Mid Rim/Elbaran",
-    "Map/Sectors/Mid Rim/Elbaran.md",
-    "Map/Mid Rim/lorta.md",
-    "Map/Sectors/Mid Rim/Gendius.md",
-    "Map/Mid Rim/Wornal/kriselist.md",
-    "Map/Mid Rim/Wornal/bomis_koori.md",
-    "Map/Sectors/Mid Rim/Wornal.md",
-    "Map/Mid Rim/Wornal",
-    "Map/Mid Rim/onod.md",
-    "Map/Sectors/Mid Rim/Irnaj.md",
-    "Map/Mid Rim/abelor.md",
-    "Map/Sectors/Mid Rim/Yushan.md",
-    "Map/Mid Rim/D'Aelgoth",
-    "Map/Mid Rim/Hadar",
-    "Map/Mid Rim/Eidoloni",
-    "Map/Mid Rim/Dustig",
-    "Map/Mid Rim/Alui",
+    "Notes/Command Structure.md",
+    "Notes/Map.md",
+    "Map/Outer Rim/ssori.md",
+    "Map/Mid Rim/Kastolar/kwenn.md",
+    "Map/Hutt Space/klatooine.md",
+    "Map/Hutt Space/vodran.md",
+    "Map/Hutt Space/kintan.md",
+    "Map/Hutt Space/ankhural.md",
+    "Map/Hutt Space/dandoran.md",
+    "Map/Hutt Space/sleheyron.md",
+    "Map/Hutt Space/nimban.md",
+    "Map/Hutt Space/saki.md",
+    "Map/Hutt Space/ylesia.md",
+    "Map/Hutt Space/toydaria.md",
+    "Map/Hutt Space/nar_shaddaa.md",
+    "Map/Hutt Space/nal_hutta.md",
+    "Map/Hutt Space/rorak.md",
+    "Map/Hutt Space/dotharian.md",
+    "Map/Hutt Space/circumtore.md",
+    "Map/Hutt Space/nar_kaaga.md",
+    "Templates/Settlement - Village.md",
+    "Map/Regions/Hutt Space.md",
+    "Map/Hutt Space",
+    "Map/Wild Space/palliduva.md",
+    "Map/Wild Space/kesh.md",
+    "Map/Wild Space/gotar.md",
+    "Map/Wild Space/berzite.md",
+    "Map/Sectors/Wild Space",
+    "Map/Unknown Regions/Garwian Unity",
+    "Map/Unknown Regions/Chiss Space",
+    "Map/Sectors/Unknown Regions",
+    "Map/Wild Space",
+    "Map/Unknown Regions",
+    "Map/Outer Rim/Trilon",
+    "Map/Outer Rim/Pacanth Reach",
+    "Map/Outer Rim/Zuma",
     "Untitled.canvas",
     "Attachments/Pasted image 20250619202226.png",
     "Attachments/Pasted image 20250619201756.png"
